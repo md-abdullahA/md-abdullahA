@@ -1,6 +1,5 @@
 ##  👋 HI , i am abdullah 
 
-<!--
 
 
 - 🔭 I’m currently working on  web development 
